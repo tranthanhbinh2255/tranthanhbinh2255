@@ -1,8 +1,6 @@
-Github
-
 Hi there! [emoji] Welcome to my Github [emoji]
 
-ABOUT BINH TRAN:
+**ABOUT BINH TRAN:**
 Full stack developer since 2015
 Have been working with multi-national clients from Singapore, Ukraine, China, Austria and UK [flag emoji]
 My Tech Stack: 
@@ -12,12 +10,12 @@ My Tech Stack:
 • Database: MongoDB, PostgreSQL & MySQL,ElasticSearch
 
 
-MY PORFOLIO:
-1.	PUBLISHED ON THE NEWS:
+**MY PORFOLIO:**
+**1.	PUBLISHED ON THE NEWS**:
 https://tuoitrenews.vn/news/features/20210825/vietnamesebuilt-mobile-solution-provides-remote-diagnosis-care-for-covid19-patients/62759.html
 https://www.channelnewsasia.com/singapore/autonomous-robot-delivery-punggol-imda-otsaw-camello-321246
 
-2.	OTHER SUCCESSFUL PROJECTS:
+**2.	OTHER SUCCESSFUL PROJECTS:**
 
 [FG] Enterprise Data Management
 We built is an internal staff portal to consolidate data from many different sources for Real Estate industry. Staff can retrieve information about invoices, clients, contacts, connections made between internal staffs and clients. Moreover, they can also contribute to the data pool themselves. This portal allows staff to leverage data retrieval and data analytic to improve their work quality.
