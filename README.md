@@ -6,4 +6,3 @@ My Tech Stack:
 • Backend: Django, ExpressJs, NestJs, 
 • Frontend: ReactJS & React Native 
 • Database: MongoDB, PostgreSQL & MySQL,ElasticSearch
-
